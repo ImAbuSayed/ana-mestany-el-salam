@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 20, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/ana-mestany-el-salam/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Secure Licensing Rights for Ana Mestany El Salam](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
